@@ -1,4 +1,4 @@
-# RMI
+# Rock papers scissors application with 2 computers
 
 ## Description :
   This Rock papers scissors application is made using the `Java remote method invocation`, and by implementing this method we can make this game played by `2       client` on diffrent machines, 1st Client on same machine as the Server machine & then the 2nd Client in a diffrent machine, as you can see in the pic below:
